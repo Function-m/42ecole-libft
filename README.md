@@ -82,7 +82,7 @@ C 표준 라이브러리에는 없지만 유용한 함수들, 또는 다른 형�
 1.  저장소를 클론합니다.
 
     ```bash
-    git clone <저장소 주소>
+    git clone https://github.com/Function-m/42ecole-libft.git
     cd libft
     ```
 
