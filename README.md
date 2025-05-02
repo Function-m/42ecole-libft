@@ -1,7 +1,5 @@
 # Libft
 
-42 Ecole에서 진행된 Born2beRoot 과제입니다. Debian 서버 설정 및 VirtualBox를 이용한 서버 구축 과정을 담고 있습니다.
-
 ## 목차
 
 1.  [프로젝트 목표](#프로젝트-목표)
