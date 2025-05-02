@@ -8,8 +8,7 @@
     * 2.2. [Part 2: Additional Functions](#part-2-additional-functions)
     * 2.3. [Bonus Functions](#bonus-functions)
 3.  [사용 방법](#사용-방법)
-4.  [기술 스택](#기술-스택)
-5.  [참고 자료](#참고-자료)
+4.  [참고 자료](#참고-자료)
 
 ## 프로젝트 목표
 
@@ -93,11 +92,6 @@ C 표준 라이브러리에는 없지만 유용한 함수들, 또는 다른 형�
     ```
 
 3.  생성된 `libft.a` 파일을 여러분의 프로젝트에 링크하여 사용합니다.
-
-## 기술 스택
-
-* C
-* Makefile
 
 ## 참고 자료
 
